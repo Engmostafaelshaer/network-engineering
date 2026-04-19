@@ -1,0 +1,19 @@
+OSPF Lab
+
+Objective
+
+Configure OSPF to allow routers to dynamically share routing information.
+
+Topology
+
+3 Routers connected with different networks.
+
+Steps
+
+- Configure IP addresses
+- Enable OSPF on routers
+- Advertise networks
+
+Result
+
+Successful communication between all networks.
